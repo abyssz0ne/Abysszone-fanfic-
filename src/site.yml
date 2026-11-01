@@ -10,8 +10,8 @@ display:
   font: sypxzs
   darkMode: auto
   perPage: 20
-  leadStory: true
-  dropCap: true
+  leadStory: false
+  dropCap: false
   endMark: true
   progressBar: true
   chapterPicker: true
@@ -26,4 +26,4 @@ works:
   readingSpeed: 500
   autoSummary: true
   related: true
-  allowCopy: true
+  allowCopy: false
